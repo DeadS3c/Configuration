@@ -5,6 +5,6 @@ Tmux configuration, just put it on your $HOME/.tmux.conf
 
 Vim configuration:
 
-$HOME/.vim/vimrc
+File with vim configuration: $HOME/.vim/vimrc
 
-$HOME/.vim/swp
+Directory to store swp files: $HOME/.vim/swp/

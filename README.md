@@ -8,4 +8,5 @@ Vim configuration:
 You need:
 
 $HOME/.vim/vimrc
+
 $HOME/.vim/swp

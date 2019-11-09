@@ -8,3 +8,8 @@ Vim configuration:
 File with vim configuration: $HOME/.vim/vimrc
 
 Directory to store swp files: $HOME/.vim/swp/
+
+i3wm configuration:
+
+Put it on your $HOME/.config/i3/config
+May you have to install additional programs

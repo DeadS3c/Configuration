@@ -209,7 +209,7 @@ hide_edge_borders both
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
-set $rofi_theme "/home/p4rr0t/.config/i3/rofithemes/solarized-alternate.rasi"
+set $rofi_theme "~/.config/i3/rofithemes/solarized-alternate.rasi"
 
 bindsym $mod+d exec rofi -show run -config $rofi_theme 
 

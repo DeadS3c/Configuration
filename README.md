@@ -13,3 +13,6 @@ i3wm configuration:
 
 Put it on your $HOME/.config/i3/
 May you have to install additional programs
+
+maquetacion.sh:
+Script for install and download all the necessary

@@ -248,4 +248,4 @@ bindsym $mod+Control+c exec --no-startup-id cherrytree
 # Init applications
 # exec rhythmbox
 exec flameshot
-exec_always feh --bg-scale ~/Imágenes/ParrotOSWallpaperHD.jpeg
+exec_always feh --bg-scale ~/Images/ParrotOSWallpaperHD.jpeg

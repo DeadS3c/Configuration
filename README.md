@@ -11,5 +11,5 @@ Directory to store swp files: $HOME/.vim/swp/
 
 i3wm configuration:
 
-Put it on your $HOME/.config/i3/config
+Put it on your $HOME/.config/i3/
 May you have to install additional programs

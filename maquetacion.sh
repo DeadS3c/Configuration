@@ -1,6 +1,6 @@
 sudo apt-get update && 
 
-sudo apt-get install -y i3 cherrytree grc rhythmbox flameshot arandr lxappearance i3blocks feh thunar parallel rofi &&
+sudo apt-get install -y i3 cherrytree grc rhythmbox flameshot arandr lxappearance i3blocks feh thunar parallel rofi parallel rpcbind nfs-common rusers seclists &&
 
 echo "alias nmap='grc nmap'" >> ~/.bash_aliases && 
 
@@ -16,7 +16,7 @@ mkdir -p ~/.vim/swp &&
 
 mv Configuration/vimrc ~/.vim/ &&
 
-rm -rf Configuration
+rm -rf Configuration &&
 
 cd ~/.config/i3/ &&
 

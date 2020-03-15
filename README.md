@@ -8,6 +8,8 @@ Vim configuration:
 File with vim configuration: $HOME/.vim/vimrc
 
 Directory to store swp files: $HOME/.vim/swp/
+Directory to store undo files: $HOME/.vim/undodir
+Directory to store plugins: $HOME/.vim/bundle
 
 i3wm configuration:
 

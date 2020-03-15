@@ -86,4 +86,6 @@ vnoremap K :m '<-2<CR>gv=gv " Move one line up with K
 " Jump back to last edited buffer
 nnoremap <C-b> <C-^>
 inoremap <C-b> <esc><C-^>
+
+" For opening vim on the last known position
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g`\"" | endif 	" Set the cursor to the last position know

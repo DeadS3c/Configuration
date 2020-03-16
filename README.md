@@ -17,6 +17,12 @@ Directory to store plugins: ``` $HOME/.vim/bundle ```
 
 ``` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ``` 
 
+### After copying files
+
+Open vim: ``` vim ```
+
+Execute: ``` :PluginInstall ```
+
 ## i3wm configuration:
 
 Put it on your ``` $HOME/.config/i3/ ```

@@ -13,6 +13,10 @@ Directory to store undo files: ``` $HOME/.vim/undodir ```
 
 Directory to store plugins: ``` $HOME/.vim/bundle ```
 
+## Install Vundle
+
+``` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ``` 
+
 ## i3wm configuration:
 
 Put it on your ``` $HOME/.config/i3/ ```

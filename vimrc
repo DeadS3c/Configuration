@@ -30,7 +30,7 @@ let g:netrw_browse_split = 4
 let g:netrw_winsize = 20
 colorscheme deep-space
 set directory=$HOME/.vim/swp	" Directory for swp files
-set undodir=~/.vim/undodir      " Set directories for undo files
+set undodir=$HOME/.vim/undodir      " Set directories for undo files
 set number                      " Set numbers
 set spell
 set backspace=indent,eol,start	" Allow backspacing over indent, line breaks and insertion start

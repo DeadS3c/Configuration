@@ -29,7 +29,7 @@ let g:netrw_liststyle = 3
 let g:netrw_browse_split = 4
 let g:netrw_winsize = 20
 set background=dark
-set termguicolors
+" set termguicolors          " Cannot use it with tmux shit...
 colorscheme deep-space
 set directory=$HOME/.vim/swp	" Directory for swp files
 set undodir=$HOME/.vim/undodir      " Set directories for undo files
